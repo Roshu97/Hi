@@ -1,0 +1,12 @@
+#HW{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 40px;
+    word-spacing: 20px;
+    text-shadow: 9px 8px 0px black;
+    font-size: 30px;
+    transition: 2s;
+}

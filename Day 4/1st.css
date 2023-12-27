@@ -1,0 +1,35 @@
+#MSD{
+    color: yellow;
+    font-size: 100px;
+    text-align: left;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 40px;
+    word-spacing: 40px;
+    text-shadow: 10px 8px 2px blue;
+    text-decoration: none;
+    display: block;
+}
+#VK{
+    color: red;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 150;
+    text-transform: capitalize;
+    letter-spacing: 25px;
+    word-spacing: 20px;
+    text-shadow: 8px 6px 3px blue;
+    display: block;
+}
+#RS{
+    color: blue;
+    font-size: 50px;
+    text-align: right;
+    font-weight: 100;
+    text-transform: lowercase;
+    letter-spacing: 20px;
+    word-spacing: 10px;
+    text-shadow: 5px 4px 1px blue;
+    text-decoration: ;
+    display: block;
+}

@@ -1,0 +1,163 @@
+ body {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: black;
+    width: 20%;
+    height: 100vh;
+}
+
+#cont {
+    list-style-type: none;
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+#cont a {
+    text-decoration: none;
+    color: blueviolet;
+    padding: 20px;
+    display: block;
+}
+
+#cont a:hover {
+    background-color: yellow;
+    color: red;
+}
+
+#menu,
+#apple {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    display: none;
+    top: 0%;
+    left: 100%;
+}
+
+#menu {
+    background-color: greenyellow;
+}
+
+#Green {
+    background-color: azure;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#one,
+#BF {
+    position: relative;
+}
+
+#one:hover #menu,
+#BF:hover #Green {
+    display: block;
+}
+#Yellow {
+    background-color: azure;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#one,
+#Lunch {
+    position: relative;
+}
+
+#one:hover #menu,
+#Lunch:hover #Yellow {
+    display: block;
+}
+#Red {
+    background-color: azure;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#one,
+#Dinner {
+    position: relative;
+}
+
+#one:hover #menu,
+#Dinner:hover #Red {
+    display: block;
+}
+
+
+#apple {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    display: none;
+    top: 0%;
+    left: 100%;
+}
+
+#menu {
+    background-color: greenyellow;
+}
+
+#Green {
+    background-color: azure;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#two,
+#BF {
+    position: relative;
+}
+
+#two:hover #menu,
+#BF:hover #Green {
+    display: block;
+}
+#Yellow {
+    background-color: azure;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#two,
+#Lunch {
+    position: relative;
+}
+
+#two:hover #menu,
+#Lunch:hover #Yellow {
+    display: block;
+}
+#Red {
+    background-color: azure;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#two,
+#Dinner {
+    position: relative;
+}
+
+#two:hover #menu,
+#Dinner:hover #Red {
+    display: block;
+}
