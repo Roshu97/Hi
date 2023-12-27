@@ -1,0 +1,14 @@
+img{
+    width: 400px;
+    height: 400px;
+    border: 6px solid red;
+    border-radius: 20%;
+    margin-left: 700px;
+    filter: blur(10px);
+}
+img:hover{
+    filter: blur(0px);
+    border-radius: 100%;
+    transition: 6s;
+    transform: rotate(360deg);
+}
